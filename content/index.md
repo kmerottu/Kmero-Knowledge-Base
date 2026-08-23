@@ -1,10 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: KmeroTTU Knowledge Base
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
-
+This is my first experience using Obsidian to edit markdown files. This interface is a lot easier to use than previous markdown editors I have used in the past. 
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
