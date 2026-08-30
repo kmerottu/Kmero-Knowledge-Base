@@ -1,6 +1,14 @@
 ---
 title: KmeroTTU Knowledge Base
 ---
+## Main Categories
+[[photography-basics/index|photography-basics]]
+[[camera-&-equipment/index|camera&equipment]]
+[[camera-settings/index|camera-settings]]
+[[lighting/index|lighting]]
+[[troubleshooting-&-faqs/index|troubleshooting-&-faqs]]
+
+
 ## The index page
 
 This is my first experience using Obsidian to edit markdown files. This interface is a lot easier to use than previous markdown editors I have used in the past. 
