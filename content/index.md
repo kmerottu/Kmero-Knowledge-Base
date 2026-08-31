@@ -2,11 +2,11 @@
 title: KmeroTTU Knowledge Base
 ---
 ## Main Categories
-[[photography-basics/index|photography-basics]]
-[[camera-&-equipment/index|camera&equipment]]
-[[camera-settings/index|camera-settings]]
-[[lighting/index|lighting]]
-[[troubleshooting-&-faqs/index|troubleshooting-&-faqs]]
+[[photography-basics/index|Photography Basics]]
+[[camera-&-equipment/index|Camera & Equipment]]
+[[camera-settings/index|Camera Settings]]
+[[lighting/index|Lighting]]
+[[troubleshooting-&-faqs/index|Troubleshooting & FAQs]]
 
 
 ## The index page
