@@ -11,4 +11,5 @@ List of sub categories
 [[photography-basics/focusing|Focusing]]
 [[photography-basics/iso|ISO]]
 [[photography-basics/the-exposure-triangle|The Exposure Triangle]]
+[Focusing](focusing.md)
 
