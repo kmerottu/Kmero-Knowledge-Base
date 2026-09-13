@@ -1,3 +1,4 @@
+# Focusing
 ## What is **focusing?**
 
 ![Project Screenshot](focus.jpg)`
@@ -40,7 +41,7 @@ Real time eye auto **focus** detects your subject eyes and ensures that subject 
 ### Links to sub catergories
 
 [[photography-basics/aperture|Aperture]]
-[[Shutter-Speed|Shutter Speed]]
+[[shutter-speed|Shutter Speed]]
 [[photography-basics/Focusing|Focusing]]
-[[photography-basics/ISO|ISO]]
-[[The-Exposure-Triangle|The Exposure Triangle]]
+[[photography-basics/iso|ISO]]
+[[the-exposure-triangle|The Exposure Triangle]]

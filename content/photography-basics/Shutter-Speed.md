@@ -1,3 +1,4 @@
+# Shutter Speed
 ## What is **shutter speed**?
 
 ![Project Screenshot](shutterspeed.jpg)
@@ -46,7 +47,7 @@ The slower the **shutter speed** the more likely it is to cause blurriniess in p
 ### Links to sub catergories
 
 [[photography-basics/aperture|Aperture]]
-[[Shutter-Speed|Shutter Speed]]
+[[shutter-speed|Shutter Speed]]
 [[photography-basics/Focusing|Focusing]]
-[[photography-basics/ISO|ISO]]
-[[The-Exposure-Triangle|The Exposure Triangle]]
+[[photography-basics/iso|ISO]]
+[[the-exposure-triangle|The Exposure Triangle]]
