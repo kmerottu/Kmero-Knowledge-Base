@@ -1,10 +1,13 @@
-What is aperture?
-Aperture in photography is the opening inside the camera lens that controls how much light that enters the camera to reach the sensor. 
+## What is **aperture?**
+
+![Project Screenshot](Aperture.jpg)`
+
+**Aperture** in photography is the opening inside the camera lens that controls how much light that enters the camera to reach the sensor. 
 
 It is measured in f-stops such as f/1.4, f/2.8, f/5.6, f,11
 
-- Wide apprature (small f- number, Ex. f/1.8): lets in more light, one of the sude affects of letting in more light is that it creates a blurred background
-- Narrow Aperature (large f-number, Ex. f/11): lets in less light but is able to keep the whole frame in focus.
+- Wide **aperture** (small f- number, Ex. f/1.8): lets in more light, one of the sude affects of letting in more light is that it creates a blurred background
+- Narrow **Aperture** (large f-number, Ex. f/11): lets in less light but is able to keep the whole frame in focus.
 ## Easy way to remember:
 
 Small f-number = more light + more background blue
