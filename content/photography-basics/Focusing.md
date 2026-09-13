@@ -40,7 +40,7 @@ Real time eye auto **focus** detects your subject eyes and ensures that subject 
 ### Links to sub catergories
 
 [[photography-basics/aperture|Aperture]]
-[[photography-basics/shutter speed|Shutter Speed]]
+[[Shutter-Speed|Shutter Speed]]
 [[photography-basics/Focusing|Focusing]]
 [[photography-basics/ISO|ISO]]
-[[photography-basics/The exposure triangle|The Exposure Triangle]]
+[[The-Exposure-Triangle|The Exposure Triangle]]
