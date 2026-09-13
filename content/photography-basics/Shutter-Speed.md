@@ -47,7 +47,7 @@ The slower the **shutter speed** the more likely it is to cause blurriniess in p
 ### Links to sub catergories
 
 [[photography-basics/aperture|Aperture]]
-[[shutter-speed|Shutter Speed]]
-[[photography-basics/Focusing|Focusing]]
+[[photography-basics/shutter-speed|Shutter Speed]]
+[[photography-basics/focusing|focusing]]
 [[photography-basics/iso|ISO]]
-[[the-exposure-triangle|The Exposure Triangle]]
+[[photography-basics/the-exposure-triangle|The Exposure Triangle]]

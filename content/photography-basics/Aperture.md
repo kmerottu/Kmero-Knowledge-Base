@@ -24,8 +24,8 @@ When photographing during the day in high light situations you can use a high f-
 ### Links to sub catergories
 
 [[photography-basics/aperture|Aperture]]
-[[shutter-speed|Shutter Speed]]
+[[photography-basics/shutter-speed|Shutter Speed]]
 [[photography-basics/focusing|Focusing]]
 [[photography-basics/iso|ISO]]
-[[the-exposure-triangle|The Exposure Triangle]]
+[[photography-basics/the-exposure-triangle|The Exposure Triangle]]
 
