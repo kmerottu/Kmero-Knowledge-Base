@@ -48,3 +48,4 @@ Real time eye auto **focus** detects your subject eyes and ensures that subject 
 [[photography-basics/focusing|Focusing]]
 [[photography-basics/iso|ISO]]
 [[photography-basics/the-exposure-triangle|The Exposure Triangle]]
+[[photography-basics/focusing|Focusing]]
