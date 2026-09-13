@@ -40,8 +40,8 @@ These setting all depends on the available light in your enviroment.
 
 ### Links to sub catergories
 
-[Aperture](photogaphy-basics/aperture)
+[Aperture](photography-basics/Aperture.md)
 [Shutter Speed](photography-basics/Shutter-Speed.md)
-[focusing](photography-basics/focusing.md)
-[ISO](photography-basics/iso.md)
-[The Exposure Triangle](photography-basics/the-exposure-triangle.md)
+[Focusing](photography-basics/Focusing.md)
+[ISO](Photography-basics/ISO.md)
+[The Exposure Triangle](photography-basics/The-Exposure-Triangle.md)
