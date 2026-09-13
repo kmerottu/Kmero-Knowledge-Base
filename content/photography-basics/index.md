@@ -6,7 +6,7 @@ Photography Basics relates to [[camera-settings/index|camera-settings]] because 
 
 List of sub categories
 
-[[photography-basics/aperture|Aperture]]
+[[aperture|Aperture]]
 [[photography-basics/shutter-speed|Shutter Speed]]
 [[photography-basics/focusing|Focusing]]
 [[photography-basics/iso|ISO]]
