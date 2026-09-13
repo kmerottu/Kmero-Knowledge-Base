@@ -1,4 +1,7 @@
-# The Exposure Triangle
+---
+title: The Exposure Triangle
+---
+
 ## What is **The Exposure Triangle?**
 
 ![Project Screenshot](exposure.png)`
@@ -40,5 +43,5 @@ These setting all depends on the available light in your enviroment.
 [[photogaphy-basics/aperture|Aperture]]
 [[photography-basics/Shutter-Speed|Shutter Speed]]
 [[photography-basics/focusing|focusing]]
-[[photography-basics/iso|ISO]]
+[[iso|ISO]]
 [[photography-basics/the-exposure-triangle|The Exposure Triangle]]

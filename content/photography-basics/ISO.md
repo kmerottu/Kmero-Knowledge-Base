@@ -1,3 +1,7 @@
+---
+title: ISO
+---
+ 
 # What is **ISO?**
 
 ![Project Screenshot](ISO.jpg)`
@@ -29,5 +33,5 @@ When possible use the lowest **ISO** that allows you to achieve the shutter spee
 [[photography-basics/aperture|Aperture]]
 [[photography-basics/shutter-speed|Shutter Speed]]
 [[photography-basics/focusing|Focusing]]
-[[photography-basics/iso|ISO]]
+[[iso|ISO]]
 [[photography-basics/the-exposure-triangle|The Exposure Triangle]]

@@ -1,4 +1,7 @@
-# Aperture
+---
+title: Aperture
+---
+ Aperture
 
 ## What is **aperture?**
 
@@ -26,6 +29,6 @@ When photographing during the day in high light situations you can use a high f-
 [[photography-basics/aperture|Aperture]]
 [[photography-basics/shutter-speed|Shutter Speed]]
 [[photography-basics/focusing|Focusing]]
-[[photography-basics/iso|ISO]]
+[[iso|ISO]]
 [[photography-basics/the-exposure-triangle|The Exposure Triangle]]
 

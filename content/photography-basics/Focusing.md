@@ -1,3 +1,6 @@
+---
+title: Focusing
+---
 # Focusing
 ## What is **focusing?**
 
@@ -43,5 +46,5 @@ Real time eye auto **focus** detects your subject eyes and ensures that subject 
 [[photography-basics/aperture|Aperture]]
 [[photography-basics/shutter-speed|Shutter Speed]]
 [[photography-basics/focusing|Focusing]]
-[[photography-basics/iso|ISO]]
+[[iso|ISO]]
 [[photography-basics/the-exposure-triangle|The Exposure Triangle]]
