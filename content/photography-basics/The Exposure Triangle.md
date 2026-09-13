@@ -1,22 +1,14 @@
+## What is **The Exposure Triangle?**
 
-The exposure triangle consisit of:
+![Project Screenshot](exposure.png)`
+
+**The exposure triangle** consisits of:
 
 - Aperture
 - Shutter Speeed
 - ISO
-Together, these settings determine the exposure of a image. Changing one of these setting often requires the adjusting of another to maintain the desired results for the exposure
 
-              EXPOSURE
-                 ▲
-                / \
-               /   \
-              /     \
-     APERTURE ─────── SHUTTER SPEED
-       f/2.8             1/500
-         \                 /
-          \               /
-           \             /
-              ISO 100
+Together, these settings determine the exposure of a image, thus the name **the exposure triangle** . Changing one of these setting often requires the adjusting of another to maintain the desired results for the exposure
 
 ## Example
 
@@ -27,6 +19,7 @@ You could:
 - Open the aperture from f/4-f/2.8
 - Slow the shutter speed from 1/250sec to 1/100sec
 - Increase ISO from 100 to 400
+
 This will allow more light to enter the camera through the larger aperture, allow the sensor to absorb more light, and increase the sensitivity of the sensor to capture more light. Resulting in a image that is brighter. 
 
 Suppose your photograph is "blown out" with light.

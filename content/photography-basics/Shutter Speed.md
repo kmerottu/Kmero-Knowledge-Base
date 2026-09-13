@@ -1,6 +1,8 @@
-## What is shutter speed?
+## What is **shutter speed**?
 
-Shutter speed determines how long the camera sensor is exposed in second and fractions of a second. Shutter speed is often called exposure time. Ex. Short Exposures and Long Exposures
+![Project Screenshot](shutterspeed.jpg)
+
+**Shutter speed** determines how long the camera sensor is exposed in second and fractions of a second. Shutter speed is often called exposure time. Ex. Short Exposures and Long Exposures
 
 Examples:
 
@@ -12,7 +14,7 @@ Examples:
 - 1/30 sec
 - 1 sec
 - 5 sec
-## Fast shutter speed
+## Fast **shutter speed**
 
 Example 1/1000 sec
 
@@ -25,7 +27,7 @@ Useful for:
 
 A fast shutter speed freezes motion
 
-## Slow shutter speed
+## Slow **shutter speed**
 
 Examples 1/10 sec
 
@@ -39,12 +41,12 @@ Useful for:
 
 ## Camera Shake
 
-The slower the shutter speed the more likely it is to cause blurriniess in photo cause by camera shake. Camera shake often happens because while holding a camera we can not make sure it is perfectly still. To help with this a tripod can ensure the camera is perfectly still when taking longer exposures. 
+The slower the **shutter speed** the more likely it is to cause blurriniess in photo cause by camera shake. Camera shake often happens because while holding a camera we can not make sure it is perfectly still. To help with this a tripod can ensure the camera is perfectly still when taking longer exposures. 
 
 ### Links to sub catergories
 
 [[photography-basics/aperture|Aperture]]
-[[photography-basics/aperture|Aperture]]
+[[photography-basics/shutter speed|Shutter Speed]]
 [[photography-basics/Focusing|Focusing]]
 [[photography-basics/ISO|ISO]]
 [[photography-basics/The exposure triangle|The Exposure Triangle]]
