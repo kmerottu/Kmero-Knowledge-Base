@@ -1,7 +1,6 @@
 ---
 title: Shutter Speed
 ---
-# Shutter Speed
 ## What is **shutter speed**?
 
 ![Project Screenshot](shutterspeed.jpg)
