@@ -41,7 +41,7 @@ These are the most common frontmatter fields:
 - `permalink`: A custom URL for the page that will remain constant even if the path to the file changes.
 - `aliases`: Other names for this note. This is a list of strings.
 - `tags`: Tags for this note.
-- `draft`: Whether to publish the page or not. This is one way to make [[private pages|pages private]] in Quartz.
+- `draft`: Whether to publish the page or not. This is one way to make [pages private](private%20pages) in Quartz.
 - `date`: A string representing the day the note was published. Normally uses `YYYY-MM-DD` format.
 
 (list via [the Quartz docs](https://github.com/jackyzha0/quartz/blob/v4/docs/authoring%20content.md))

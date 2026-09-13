@@ -30,8 +30,8 @@ When possible use the lowest **ISO** that allows you to achieve the shutter spee
 
 ### Links to sub catergories
 
-[[photography-basics/aperture|Aperture]]
-[[photography-basics/shutter-speed|Shutter Speed]]
-[[photography-basics/focusing|Focusing]]
-[[photography-basics/iso|ISO]]
-[[photography-basics/the-exposure-triangle|The Exposure Triangle]]
+[Aperture](photography-basics/aperture.md)
+[Shutter Speed](photography-basics/shutter-speed.md)
+[Focusing](photography-basics/focusing.md)
+[ISO](photography-basics/iso.md)
+[The Exposure Triangle](photography-basics/the-exposure-triangle.md)

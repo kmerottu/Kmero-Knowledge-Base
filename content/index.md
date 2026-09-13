@@ -2,11 +2,11 @@
 title: KmeroTTU Knowledge Base
 ---
 ## Main Categories
-[[photography-basics/index|Photography Basics]]
-[[camera-&-equipment/index|Camera & Equipment]]
-[[camera-settings/index|Camera Settings]]
-[[lighting/index|Lighting]]
-[[troubleshooting-&-faqs/index|Troubleshooting & FAQs]]
+[Photography Basics](photography-basics/index.md)
+[Camera & Equipment](camera-&-equipment/index.md)
+[Camera Settings](camera-settings/index.md)
+[Lighting](lighting/index.md)
+[Troubleshooting & FAQs](troubleshooting-&-faqs/index.md)
 
 
 ## The index page
@@ -45,5 +45,5 @@ You can use any text editor capable of opening and editing Markdown files.
 ---
 ## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [Example doc 01](Example%20doc%2001.md) to learn more.
 

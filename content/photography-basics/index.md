@@ -2,13 +2,13 @@
 title: Photography Basics
 ---
 ## Related Categories
-Photography Basics relates to [[camera-settings/index|camera-settings]] because it is the first thing you must understand to achieve the desired results. 
+Photography Basics relates to [camera-settings](camera-settings/index.md) because it is the first thing you must understand to achieve the desired results. 
 
 List of sub categories
 
-[[photography-basics/aperture|Aperture]]
-[[photography-basics/shutter-speed|Shutter Speed]]
-[[photography-basics/focusing|Focusing]]
-[[photography-basics/iso|ISO]]
-[[photography-basics/the-exposure-triangle|The Exposure Triangle]]
+[Aperture](photography-basics/aperture.md)
+[Shutter Speed](photography-basics/shutter-speed.md)
+[Focusing](photography-basics/focusing.md)
+[ISO](photography-basics/iso.md)
+[The Exposure Triangle](photography-basics/the-exposure-triangle.md)
 [Aperture](photography-basics/aperture.md)
