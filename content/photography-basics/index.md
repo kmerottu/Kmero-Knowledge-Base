@@ -8,7 +8,7 @@ List of sub categories
 
 [[photography-basics/aperture|Aperture]]
 [[photography-basics/shutter-speed|Shutter Speed]]
-[[photography-basics/focusing|focusing]]
+[[photography-basics/focusing|Focusing]]
 [[photography-basics/iso|ISO]]
 [[photography-basics/the-exposure-triangle|The Exposure Triangle]]
 
