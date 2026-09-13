@@ -43,5 +43,5 @@ These setting all depends on the available light in your enviroment.
 [[photogaphy-basics/aperture|Aperture]]
 [[photography-basics/Shutter-Speed|Shutter Speed]]
 [[photography-basics/focusing|focusing]]
-[[iso|ISO]]
+[[photography-basics/iso|ISO]]
 [[photography-basics/the-exposure-triangle|The Exposure Triangle]]
