@@ -6,7 +6,10 @@ title: The Exposure Triangle
 
 ![Project Screenshot](exposure.png)
 
-**The exposure triangle** consisits of:
+
+![project PDF](exposuretrianglepdf.pdf)
+
+**The exposure triangle** consists of:
 
 - Aperture
 - Shutter Speeed
