@@ -5,7 +5,7 @@ title: Aperture
 
 ## What is **aperture?**
 
-![Project Screenshot](Aperture.jpg)`
+![Project Screenshot](Aperture.jpg)
 
 **Aperture** in photography is the opening inside the camera lens that controls how much light that enters the camera to reach the sensor. 
 
