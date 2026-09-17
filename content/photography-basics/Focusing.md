@@ -4,7 +4,7 @@ title: Focusing
 # Focusing
 ## What is **focusing?**
 
-![Project Screenshot](focus.jpg)`
+![Project Screenshot](focus.jpg)
 
 **Focus** determines which parts of the image appear sharp or in focus.
 

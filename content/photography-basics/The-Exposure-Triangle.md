@@ -4,7 +4,7 @@ title: The Exposure Triangle
 
 ## What is **The Exposure Triangle?**
 
-![Project Screenshot](exposure.png)`
+![Project Screenshot](exposure.png)
 
 **The exposure triangle** consisits of:
 
