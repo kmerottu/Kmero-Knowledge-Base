@@ -18,7 +18,7 @@ It is measured in f-stops such as f/1.4, f/2.8, f/5.6, f,11
 Small f-number = more light + more background blue
 Large f-number = less light + more of the frame in focus
 
-Example, f/1.8 creates a creamy background blur great for portraits. Whil f/11 is often used often in  landscapes that must be all in focus.
+Example, f/1.8 creates a creamy background blur great for portraits. While f/11 is often used often in  landscapes that must be all in focus.
 
 When photographing in low light situations such as sport photography after dark a small f-number will have to be used do to the unavailable light. 
 
