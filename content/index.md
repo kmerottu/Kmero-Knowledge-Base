@@ -45,5 +45,5 @@ You can use any text editor capable of opening and editing Markdown files.
 ---
 ## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [Example doc 01](Example%20doc%2001.md) to learn more.
+You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [example doc 01](example%20doc%2001.md) to learn more.
 
