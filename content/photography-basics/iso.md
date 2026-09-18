@@ -30,8 +30,8 @@ When possible use the lowest **ISO** that allows you to achieve the shutter spee
 
 ### Links to sub catergories
 
-[aperture1](aperture1.md)
-[Shutter Speed](shutter-speed1.md)
-[focusing1](focusing1.md)
-[iso1](iso1.md)
-[The Exposure Triangle](the-exposure-triangle1.md)
+[aperture](aperture.md)
+[Shutter Speed](shutter-speed.md)
+[focusing](focusing.md)
+[iso](iso.md)
+[The Exposure Triangle](the-exposure-triangle.md)
