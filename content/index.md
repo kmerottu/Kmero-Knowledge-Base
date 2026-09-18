@@ -2,7 +2,7 @@
 title: KmeroTTU Knowledge Base
 ---
 ## Main Categories
-[Photography Basics](photography-basics/index.md)
+[Photography Basics](index1.md)
 [Camera & Equipment](camera-&-equipment/index.md)
 [Camera Settings](camera-settings/index.md)
 [Lighting](lighting/index.md)
