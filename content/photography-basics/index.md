@@ -6,8 +6,8 @@ Photography Basics relates to [camera-settings](camera-settings/index.md) becaus
 
 List of sub categories
 
-[aperture](aperture.md)
+[Aperture](aperture.md)
 [Shutter Speed](shutter-speed.md)
-[focusing](focusing.md)
-[iso](iso.md)
+[Focusing](focusing.md)
+[ISO](iso.md)
 [The Exposure Triangle](the-exposure-triangle.md)
