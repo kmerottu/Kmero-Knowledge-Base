@@ -14,17 +14,11 @@ A digital camera captures light through a lens and records the image using an el
 The basic process includes:
 
 1. Light enters through the lens.
-    
 2. The aperture controls how much light enters.
-    
 3. The shutter controls how long light reaches the sensor.
-    
 4. The image sensor records the light.
-    
 5. The camera processes the captured information.
-    
 6. The photograph is saved to a memory card.
-    
 
 The **aperture, shutter speed, and ISO** work together to control exposure.
 
@@ -33,23 +27,14 @@ The **aperture, shutter speed, and ISO** work together to control exposure.
 There are several major types of cameras used for photography.
 
 - DSLR cameras
-    
 - Mirrorless cameras
-    
 - Point-and-shoot cameras
-    
 - Bridge cameras
-    
 - Action cameras
-    
 - Instant cameras
-    
 - Film cameras
-    
 - Medium-format cameras
-    
 - Smartphone cameras
-    
 
 Each type has different strengths and is designed for different photography situations.
 
@@ -62,34 +47,22 @@ DSLR cameras use a mirror and optical viewfinder system to allow photographers t
 ### Features
 
 - Interchangeable lenses
-    
 - Optical viewfinder
-    
 - Large image sensors
-    
 - Manual controls
-    
 - Long battery life on many models
-    
 - Wide selection of lenses and accessories
-    
 
 ### Common Uses
 
 DSLR cameras can be used for:
 
 - Portraits
-    
 - Landscapes
-    
 - Sports
-    
 - Wildlife
-    
 - Weddings
-    
 - Professional photography
-    
 
 DSLR cameras remain useful for photographers who prefer optical viewfinders and traditional camera controls.
 
@@ -102,36 +75,23 @@ Instead, they use an electronic viewfinder or the camera's screen to display the
 ### Features
 
 - Interchangeable lenses
-    
 - Electronic viewfinders on many models
-    
 - Compact designs
-    
 - Advanced autofocus
-    
 - Strong video capabilities
-    
 - Electronic previews of exposure and white balance
-    
 
 ### Common Uses
 
 Mirrorless cameras are commonly used for:
 
 - Portraits
-    
 - Travel
-    
 - Landscape photography
-    
 - Sports
-    
 - Wildlife
-    
 - Video
-    
 - Professional photography
-    
 
 # Point-and-Shoot Cameras
 
@@ -142,64 +102,22 @@ Many models have a fixed lens and automatic settings that make them easy to use.
 ### Features
 
 - Compact size
-    
 - Fixed lens
-    
 - Automatic controls
-    
 - Simple operation
-    
 - Easy portability
-    
 
 ### Common Uses
 
 Point-and-shoot cameras are useful for:
 
 - Vacations
-    
 - Family photography
-    
 - Everyday photography
-    
 - Events
-    
 - Casual photography
-    
 
-# Bridge Cameras
 
-Bridge cameras are designed to provide some features of interchangeable-lens cameras while maintaining a fixed lens.
-
-Many bridge cameras have large zoom ranges.
-
-### Features
-
-- Fixed lens
-    
-- Large zoom range
-    
-- Electronic viewfinder
-    
-- Manual controls
-    
-- Automatic modes
-    
-
-### Common Uses
-
-Bridge cameras can be useful for:
-
-- Wildlife
-    
-- Travel
-    
-- Sports
-    
-- Nature photography
-    
-- Everyday photography
-    
 
 # Action Cameras
 
@@ -208,34 +126,22 @@ Action cameras are small cameras designed for capturing photographs and video du
 ### Features
 
 - Compact design
-    
 - Wide-angle lenses
-    
 - Durable construction
-    
 - Video stabilization
-    
 - Waterproofing on many models
-    
 
 ### Common Uses
 
 Action cameras are commonly used for:
 
 - Hiking
-    
 - Biking
-    
 - Skiing
-    
 - Surfing
-    
 - Travel
-    
 - Sports
-    
 - Underwater activities
-    
 
 # Instant Cameras
 
@@ -244,30 +150,20 @@ Instant cameras produce physical photographs shortly after the image is captured
 ### Features
 
 - Simple controls
-    
 - Built-in printing
-    
 - Physical photographs
-    
 - Creative and casual design
-    
 
 ### Common Uses
 
 Instant cameras are popular for:
 
 - Parties
-    
 - Weddings
-    
 - Events
-    
 - Travel
-    
 - Scrapbooks
-    
 - Creative photography
-    
 
 # Film Cameras
 
@@ -278,28 +174,19 @@ Film must be processed before the photographs can normally be viewed or printed.
 ### Features
 
 - Photographic film
-    
 - Mechanical or electronic controls
-    
 - Different film formats
-    
 - Distinctive image characteristics
-    
 
 ### Common Uses
 
 Film cameras are used for:
 
 - Artistic photography
-    
 - Traditional photography
-    
 - Street photography
-    
 - Portraits
-    
 - Creative projects
-    
 
 # Medium-Format Cameras
 
@@ -312,15 +199,10 @@ They are known for high image quality and detailed photographs.
 Medium-format cameras are often used for:
 
 - Commercial photography
-    
 - Fashion
-    
 - Studio photography
-    
 - Fine art
-    
 - High-resolution landscapes
-    
 
 These cameras and their lenses can be larger and more expensive than many other camera systems.
 
@@ -333,13 +215,9 @@ It captures the light that creates the digital photograph.
 Common sensor formats include:
 
 - Full frame
-    
 - APS-C
-    
 - Micro Four Thirds
-    
 - Medium format
-    
 
 ### Full-Frame Sensors
 
@@ -368,11 +246,8 @@ For example, a 24-megapixel camera produces an image with approximately 24 milli
 Higher megapixel counts can provide:
 
 - More detail
-    
 - Greater cropping flexibility
-    
 - Larger potential prints
-    
 
 However, more megapixels do not automatically mean a camera produces better photographs. Lens quality, sensor performance, lighting, focus, and photographer technique also affect image quality.
 
@@ -383,21 +258,13 @@ ISO controls the camera's sensitivity to light.
 A camera may offer settings such as:
 
 - ISO 100
-    
 - ISO 200
-    
 - ISO 400
-    
 - ISO 800
-    
 - ISO 1600
-    
 - ISO 3200
-    
 - ISO 6400
-    
 - Higher extended settings
-    
 
 Lower ISO settings generally produce less digital noise, while higher ISO settings can help in low-light situations.
 
@@ -416,9 +283,7 @@ Aperture is the opening inside the lens that controls the amount of light enteri
 Aperture also affects depth of field.
 
 - Wide aperture → more light and shallower depth of field
-    
 - Narrow aperture → less light and greater depth of field
-    
 
 ## Autofocus
 
@@ -427,17 +292,12 @@ Autofocus allows the camera to automatically focus on a subject.
 Modern cameras may include features such as:
 
 - Single autofocus
-    
 - Continuous autofocus
-    
 - Face detection
-    
 - Eye detection
-    
 - Animal detection
-    
 - Subject tracking
-    
+
 
 Autofocus technology can be especially useful for sports, wildlife, portraits, and other moving subjects.
 
@@ -460,15 +320,10 @@ It is commonly found on mirrorless cameras.
 Electronic viewfinders can show information such as:
 
 - Exposure
-    
 - White balance
-    
 - Focus information
-    
 - Histograms
-    
 - Camera settings
-    
 
 ## Camera Modes
 
@@ -505,32 +360,20 @@ Many modern cameras can record video.
 Important video features may include:
 
 - Resolution
-    
 - Frame rate
-    
 - Autofocus
-    
 - Image stabilization
-    
 - Microphone input
-    
 - Headphone monitoring
-    
 - Log recording
-    
 - Slow motion
-    
 
 Common video resolutions include:
 
 - Full HD
-    
 - 4K
-    
 - 6K
-    
 - 8K
-    
 
 The availability of these features depends on the camera model.
 
@@ -541,15 +384,10 @@ Interchangeable-lens cameras use specific lens mounts.
 Before purchasing a lens, photographers should check:
 
 - Camera brand
-    
 - Lens mount
-    
 - Sensor format
-    
 - Autofocus compatibility
-    
 - Adapter requirements
-    
 
 Not every lens can be directly attached to every camera.
 
@@ -560,21 +398,13 @@ Many companies produce cameras and photography equipment.
 Examples include:
 
 - Canon
-    
 - Nikon
-    
 - Sony
-    
 - Fujifilm
-    
 - Panasonic
-    
 - OM System
-    
 - Leica
-    
 - Pentax
-    
 
 Each manufacturer offers different camera systems, lenses, features, and accessories.
 
@@ -629,13 +459,9 @@ Store cameras in a dry, protected environment.
 A camera bag or protective case can help prevent:
 
 - Dust
-    
 - Scratches
-    
 - Moisture
-    
 - Physical damage
-    
 
 ### Battery Care
 
@@ -652,53 +478,39 @@ Back up important photographs regularly and safely remove memory cards when appr
 Some common camera problems include:
 
 - Battery draining quickly
-    
 - Memory card errors
-    
 - Autofocus problems
-    
 - Blurry photographs
-    
 - Overexposed images
-    
 - Underexposed images
-    
 - Sensor dust
-    
 - Camera overheating
-    
 
 Many basic problems can be resolved by checking the camera settings, battery, memory card, lens, and user manual.
 
 ## Key Terms
 
 - **Camera Body:** The main part of a camera containing the sensor and controls.
-    
 - **Image Sensor:** The component that captures light and creates a digital image.
-    
 - **Lens:** An optical component that focuses light onto the sensor.
-    
 - **DSLR:** A digital camera that uses a mirror and optical viewfinder system.
-    
 - **Mirrorless:** A digital camera that does not use the traditional DSLR mirror system.
-    
 - **Megapixel:** Approximately one million pixels.
-    
 - **ISO:** A setting that controls sensitivity to light and affects image noise.
-    
 - **Aperture:** The opening in a lens that controls the amount of light entering the camera.
-    
 - **Shutter Speed:** The amount of time the sensor is exposed to light.
-    
 - **Autofocus:** A system that automatically adjusts focus.
-    
 - **Lens Mount:** The connection between a camera body and compatible lens.
-    
 - **Viewfinder:** A system used to compose and preview photographs.
-    
 
 ## Summary
 
 Cameras are available in many different types, from simple point-and-shoot and instant cameras to advanced DSLR, mirrorless, and medium-format systems. Each camera type offers different features and is designed for different photography needs.
 
 When choosing a camera, photographers should consider **sensor size, megapixels, autofocus, ISO range, shutter speed, lens compatibility, video capabilities, size, and budget**. Understanding these features makes it easier to select a camera that fits a photographer's goals and style.
+
+### Links to sub catergories
+
+[Lens Selection Guide](lens-selection-guide.md)
+[Lenses](lenses.md)
+[Accessories](accessories.md)

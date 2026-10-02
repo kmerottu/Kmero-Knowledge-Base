@@ -283,23 +283,14 @@ Beginners can sometimes over-edit photographs.
 Common mistakes include:
 
 - Excessive saturation
-    
 - Too much contrast
-    
 - Over-sharpening
-    
 - Excessive noise reduction
-    
 - Incorrect white balance
-    
 - Overusing HDR effects
-    
 - Removing too much natural texture
-    
 - Cropping too aggressively
-    
 - Making skin tones look unnatural
-    
 
 A good practice is to compare the edited photograph with the original and make sure the changes improve the image.
 
@@ -310,70 +301,49 @@ There are many programs available for photography editing.
 Common examples include:
 
 - Adobe Lightroom
-    
 - Adobe Photoshop
-    
 - Capture One
-    
 - Affinity Photo
-    
 - GIMP
-    
 - Darktable
-    
 
 Some programs are designed primarily for organizing and developing photographs, while others provide more advanced image manipulation and retouching tools.
 
 ## Best Practices
 
 - Always keep an original copy of important photographs.
-    
 - Use non-destructive editing when possible.
-    
 - Make exposure and white balance corrections before detailed edits.
-    
 - Avoid excessive saturation and sharpening.
-    
 - Zoom out regularly to evaluate the entire image.
-    
 - Compare the edited photograph with the original.
-    
 - Export photographs using settings appropriate for their intended use.
-    
 - Keep edited files organized and properly named.
-    
 - Use consistent editing styles for photographs from the same project.
-    
 
 ## Key Terms
 
 - **Post-Processing:** Editing a photograph after it has been captured.
-    
 - **RAW:** An image file containing extensive data captured by the camera.
-    
 - **JPEG:** A compressed image format commonly used for sharing.
-    
 - **Exposure:** The amount of light captured in a photograph.
-    
 - **White Balance:** Adjustment that controls the color appearance of an image.
-    
 - **Contrast:** The difference between light and dark areas.
-    
 - **Saturation:** The intensity of colors.
-    
 - **Sharpening:** Increasing the appearance of detail and edge definition.
-    
 - **Noise Reduction:** Reducing unwanted digital noise.
-    
 - **Cropping:** Removing part of an image to improve framing or composition.
-    
 - **Retouching:** Editing specific areas or objects within an image.
-    
 - **Mask:** A tool that controls where an adjustment is applied.
-    
 - **Non-Destructive Editing:** Editing that preserves the original image.
-    
+
 
 ## Summary
 
 Editing and post-processing are important parts of modern photography. Photographers can use editing software to correct exposure, adjust colors, improve composition, reduce noise, sharpen details, and remove distractions. Understanding how to edit photographs effectively allows photographers to improve their images while maintaining a natural appearance or creating a specific artistic style. A good editing workflow should protect the original photograph, use adjustments carefully, and prepare the final image for its intended purpose.
+
+### Links to sub catergories
+
+[Editing Workflow](editing-workflow.md)
+[Photography Editing](photography-editing.md)
+[Software](software.md)

@@ -16,13 +16,9 @@ Natural light comes from the sun. It is one of the most common types of lighting
 **Examples:**
 
 - Sunlight
-    
 - Window light
-    
 - Golden hour
-    
 - Overcast daylight
-    
 
 Natural light can create soft and natural-looking photographs. The direction and intensity of sunlight can change throughout the day, which affects the appearance of the image.
 
@@ -33,15 +29,10 @@ Artificial light comes from equipment or other man-made sources.
 **Examples:**
 
 - Studio lights
-    
 - LED lights
-    
 - Speedlights
-    
 - Continuous lights
-    
 - Light panels
-    
 
 Artificial lighting gives photographers more control over the direction, intensity, and color of light.
 
@@ -76,11 +67,8 @@ Hard light creates strong shadows and noticeable contrast.
 **Examples:**
 
 - Direct sunlight
-    
 - Small flash sources
-    
 - Unmodified studio lights
-    
 
 Hard light can be useful for dramatic or high-contrast photographs.
 
@@ -91,13 +79,9 @@ Soft light creates gradual shadows and less contrast.
 **Examples:**
 
 - Overcast skies
-    
 - Large windows
-    
 - Softboxes
-    
 - Diffused light
-    
 
 Soft light is commonly used for portraits because it creates a more flattering and natural appearance.
 
@@ -106,11 +90,8 @@ Soft light is commonly used for portraits because it creates a more flattering a
 Color temperature describes the color of a light source. It is measured in **Kelvin (K)**.
 
 - **Warm light:** Yellow or orange appearance
-    
 - **Cool light:** Blue appearance
-    
 - **Daylight:** Generally appears more neutral
-    
 
 Photographers can adjust the camera's **white balance** to make colors appear more natural under different lighting conditions.
 
@@ -143,11 +124,8 @@ Three-point lighting is a common lighting setup used for portraits, video, and s
 It typically includes:
 
 1. **Key Light** – The main light source that illuminates the subject.
-    
 2. **Fill Light** – Reduces shadows created by the key light.
-    
 3. **Back Light** – Separates the subject from the background and adds depth.
-    
 
 ## Lighting and Camera Settings
 
@@ -170,21 +148,13 @@ These three settings work together as part of the **exposure triangle**.
 ## Tips for Better Lighting
 
 - Pay attention to the direction of the light.
-    
 - Use soft light for natural-looking portraits.
-    
 - Use reflectors to reduce unwanted shadows.
-    
 - Avoid harsh overhead lighting when possible.
-    
 - Experiment with backlighting and side lighting.
-    
 - Adjust white balance when the color of the light changes.
-    
 - Use artificial lighting when you need more control.
-    
 - Check your exposure before taking the final photograph.
-    
 
 ## Photography Uses
 
@@ -203,26 +173,22 @@ Different lighting techniques can be useful for different types of photography.
 ## Key Terms
 
 - **Natural Light:** Light that comes from the sun or other natural sources.
-    
 - **Artificial Light:** Light produced by equipment or other man-made sources.
-    
 - **Hard Light:** Light that produces strong shadows and high contrast.
-    
 - **Soft Light:** Light that produces softer shadows and lower contrast.
-    
 - **Key Light:** The primary light used to illuminate a subject.
-    
 - **Fill Light:** A secondary light used to reduce shadows.
-    
 - **Back Light:** Light placed behind the subject.
-    
 - **Reflector:** A surface used to bounce light toward a subject.
-    
 - **White Balance:** A camera setting used to adjust the color of an image based on the lighting.
-    
 - **Color Temperature:** A measurement of the color of a light source in Kelvin.
-    
 
 ## Summary
 
 Lighting is an important part of photography because it affects the brightness, shadows, colors, depth, and mood of an image. Photographers can use natural or artificial light and control the direction and quality of light to create different effects. Understanding lighting also helps photographers choose appropriate camera settings and improve the overall quality of their photographs.
+
+### Links to sub catergories
+
+[lighting](lighting.md)
+[Lighting Cheat Sheet](lighting-cheat-sheet.md)
+

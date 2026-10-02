@@ -19,29 +19,17 @@ Photography editing software is a computer or mobile application used to modify 
 Common editing tasks include:
 
 - Adjusting exposure
-    
 - Changing brightness and contrast
-    
 - Correcting color
-    
 - Cropping and straightening
-    
 - Removing unwanted objects
-    
 - Reducing noise
-    
 - Sharpening images
-    
 - Retouching portraits
-    
 - Applying lens corrections
-    
 - Creating masks and selections
-    
 - Organizing photographs
-    
 - Exporting images for different purposes
-    
 
 Editing software can help improve a photograph while still preserving the photographer's original image when non-destructive editing is used.
 
@@ -56,23 +44,14 @@ RAW editors are designed to process RAW files and make adjustments to photograph
 Common features include:
 
 - Exposure adjustment
-    
 - White balance
-    
 - Highlight and shadow recovery
-    
 - Color correction
-    
 - Lens correction
-    
 - Noise reduction
-    
 - Sharpening
-    
 - Cropping
-    
 - Masking
-    
 
 RAW editors are commonly used as the first step in a photography editing workflow.
 
@@ -85,23 +64,14 @@ Pixel-based editors allow photographers to make detailed changes to individual p
 Common features include:
 
 - Layers
-    
 - Selection tools
-    
 - Clone tools
-    
 - Healing tools
-    
 - Text
-    
 - Background removal
-    
 - Object removal
-    
 - Advanced retouching
-    
 - Compositing
-    
 
 These programs are useful when photographers need more control than a basic RAW editor provides.
 
@@ -114,19 +84,12 @@ Mobile editing apps allow photographers to edit images using smartphones and tab
 Common features include:
 
 - Presets
-    
 - Exposure adjustments
-    
 - Filters
-    
 - Cropping
-    
 - Color adjustments
-    
 - Retouching
-    
 - Social media export
-    
 
 Mobile editors are useful for photographers who want to edit and share photographs quickly.
 
@@ -156,27 +119,16 @@ Adobe Lightroom is designed for organizing and editing large collections of phot
 ### Common Features
 
 - RAW processing
-    
 - Exposure adjustments
-    
 - White balance
-    
 - Color correction
-    
 - Cropping
-    
 - Presets
-    
 - Masking
-    
 - Noise reduction
-    
 - Sharpening
-    
 - Photo organization
-    
 - Batch editing
-    
 
 Lightroom is commonly used when photographers need to manage and edit many photographs efficiently.
 
@@ -189,23 +141,14 @@ Adobe Photoshop is a powerful image-editing program that provides detailed contr
 ### Common Features
 
 - Layers
-    
 - Masks
-    
 - Selections
-    
 - Object removal
-    
 - Retouching
-    
 - Background replacement
-    
 - Compositing
-    
 - Text
-    
 - Advanced color adjustments
-    
 
 Photoshop is useful when an image requires detailed manipulation beyond basic exposure and color adjustments.
 
@@ -218,21 +161,13 @@ Capture One is a professional photography editing and RAW-processing program.
 ### Common Features
 
 - RAW processing
-    
 - Color grading
-    
 - Exposure adjustment
-    
 - Layers
-    
 - Masking
-    
 - Tethered shooting
-    
 - Photo organization
-    
 - Lens corrections
-    
 
 It is often used by photographers who want detailed control over color and RAW image processing.
 
@@ -245,19 +180,12 @@ DxO PhotoLab is focused on RAW processing and image quality.
 ### Common Features
 
 - RAW processing
-    
 - Noise reduction
-    
 - Lens corrections
-    
 - Sharpening
-    
 - Exposure adjustments
-    
 - Optical corrections
-    
 - Local adjustments
-    
 
 It can be useful for photographers who want to improve image quality and correct lens-related problems.
 
@@ -270,21 +198,13 @@ Affinity Photo is a photo-editing program designed for detailed image manipulati
 ### Common Features
 
 - Layers
-    
 - Masks
-    
 - Retouching
-    
 - RAW processing
-    
 - Selections
-    
 - Filters
-    
 - Object removal
-    
 - HDR editing
-    
 
 It can be used for both basic adjustments and more advanced editing projects.
 
@@ -297,50 +217,18 @@ GIMP is a free, open-source image-editing program.
 ### Common Features
 
 - Layers
-    
 - Selection tools
-    
 - Filters
-    
 - Retouching
-    
 - Color adjustments
-    
 - Cropping
-    
 - Image manipulation
-    
 
 GIMP can be useful for photographers who want advanced editing tools without purchasing commercial software.
 
----
 
-# Important Editing Tools
+### Links to sub catergories
 
-## Exposure
-
-Exposure controls how light or dark an image appears.
-
-Increasing exposure makes an image brighter, while decreasing exposure makes it darker.
-
----
-
-## Contrast
-
-Contrast controls the difference between lighter and darker areas.
-
-Higher contrast can create a stronger appearance, while lower contrast produces a softer look.
-
----
-
-## Highlights
-
-Highlights control the brightest areas of an image.
-
-Reducing highlights can help recover detail in bright areas such as:
-
-- Clouds
-    
-- White clothing
-    
--
+[Editing Workflow](editing-workflow.md)
+[Photography Editing](photography-editing.md)
+[Software](software.md)

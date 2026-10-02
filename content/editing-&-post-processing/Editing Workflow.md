@@ -86,3 +86,10 @@ Common examples include:
 - Darktable
 
 Some programs are designed primarily for organizing and developing photographs, while others provide more advanced image manipulation and retouching tools.
+
+
+### Links to sub catergories
+
+[Editing Workflow](editing-workflow.md)
+[Photography Editing](photography-editing.md)
+[Software](software.md)

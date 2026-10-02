@@ -9,13 +9,9 @@ Choosing the right lens depends on what you are photographing, how much of the s
 **Recommended lenses:**
 
 - 50mm
-    
 - 85mm
-    
 - 105mm
-    
 - 135mm
-    
 
 **Consider:** A lens with a wide maximum aperture, such as f/1.8 or f/2.8, can help create a blurred background and separate the subject from the background.
 
@@ -24,13 +20,9 @@ Choosing the right lens depends on what you are photographing, how much of the s
 **Recommended lenses:**
 
 - 14–24mm
-    
 - 16–35mm
-    
 - 20mm
-    
 - 24mm
-    
 
 **Consider:** A wide-angle lens can capture more of the scene and is useful for large landscapes.
 
@@ -39,11 +31,8 @@ Choosing the right lens depends on what you are photographing, how much of the s
 **Recommended lenses:**
 
 - 70–200mm
-    
 - 100–400mm
-    
 - 200–500mm
-    
 
 **Consider:** Look for fast autofocus, a longer focal length, and a wide maximum aperture when possible.
 
@@ -52,13 +41,9 @@ Choosing the right lens depends on what you are photographing, how much of the s
 **Recommended lenses:**
 
 - 100–400mm
-    
 - 200–500mm
-    
 - 400mm
-    
 - 600mm
-    
 
 **Consider:** Longer focal lengths allow photographers to photograph animals from farther away.
 
@@ -67,11 +52,8 @@ Choosing the right lens depends on what you are photographing, how much of the s
 **Recommended lenses:**
 
 - 60mm macro
-    
 - 90mm or 100mm macro
-    
 - 105mm macro
-    
 
 **Consider:** Look for a lens specifically designed for macro photography and close focusing.
 
@@ -80,11 +62,8 @@ Choosing the right lens depends on what you are photographing, how much of the s
 **Recommended lenses:**
 
 - 24–70mm
-    
 - 24–105mm
-    
 - 18–135mm for compatible crop-sensor systems
-    
 
 **Consider:** A zoom lens can be convenient when traveling because one lens can cover multiple focal lengths.
 
@@ -93,11 +72,8 @@ Choosing the right lens depends on what you are photographing, how much of the s
 **Recommended lenses:**
 
 - 28mm
-    
 - 35mm
-    
 - 50mm
-    
 
 **Consider:** Smaller and lighter lenses can make it easier to carry the camera for long periods.
 
@@ -106,11 +82,8 @@ Choosing the right lens depends on what you are photographing, how much of the s
 **Recommended lenses:**
 
 - 14–24mm
-    
 - 16–35mm
-    
 - 17–40mm
-    
 
 **Consider:** Wide-angle lenses can capture large buildings and small interior spaces. Perspective correction may be needed when photographing architecture.
 
@@ -119,28 +92,18 @@ Choosing the right lens depends on what you are photographing, how much of the s
 ### Choose a Prime Lens If:
 
 - You prefer a fixed focal length.
-    
 - You want a simple and lightweight setup.
-    
 - You frequently photograph in low light.
-    
 - You want a wide maximum aperture.
-    
 - You enjoy moving yourself to compose photographs.
-    
 
 ### Choose a Zoom Lens If:
 
 - You need multiple focal lengths.
-    
 - You photograph subjects at different distances.
-    
 - You travel frequently.
-    
 - You want to avoid changing lenses often.
-    
 - Convenience is important.
-    
 
 ## Step 3: How Much Background Blur Do You Want?
 
@@ -149,13 +112,9 @@ Choosing the right lens depends on what you are photographing, how much of the s
 Look for:
 
 - Wide maximum aperture
-    
 - Longer focal length
-    
 - Close focusing distance
-    
 - Greater distance between subject and background
-    
 
 **Common choices:** 50mm f/1.8, 85mm f/1.8, or 70–200mm f/2.8.
 
@@ -164,11 +123,8 @@ Look for:
 Consider:
 
 - A narrower aperture
-    
 - A shorter focal length
-    
 - Greater distance from the subject
-    
 
 **Common choices:** Wide-angle lenses and standard zoom lenses.
 
@@ -181,11 +137,8 @@ Most lenses can work well in bright conditions.
 Consider:
 
 - f/4–f/8 zoom lenses
-    
 - Lower-cost lenses
-    
 - Smaller and lighter lenses
-    
 
 ### Low-Light Conditions
 
@@ -194,13 +147,9 @@ Consider a lens with a wide maximum aperture.
 Examples:
 
 - f/1.4
-    
 - f/1.8
-    
 - f/2
-    
 - f/2.8
-    
 
 Wide-aperture lenses can allow more light to reach the camera sensor.
 
@@ -221,17 +170,11 @@ For example, a photographer photographing a bird from a distance would generally
 Before purchasing a lens, check:
 
 - Camera brand
-    
 - Lens mount
-    
 - Sensor size
-    
 - Autofocus compatibility
-    
 - Image stabilization compatibility
-    
 - Adapter requirements
-    
 
 A lens should not be purchased based only on focal length. It also needs to be compatible with the camera system.
 
@@ -280,26 +223,23 @@ A lens should not be purchased based only on focal length. It also needs to be c
 Before selecting a lens, ask:
 
 - What type of photography will I do?
-    
 - How close or far will my subjects be?
-    
 - Do I need a wide or narrow field of view?
-    
 - Do I need to zoom?
-    
 - Do I want strong background blur?
-    
 - Will I photograph in low light?
-    
 - Do I need image stabilization?
-    
 - Does the lens have the correct mount?
-    
 - Is the lens compatible with my camera's sensor?
-    
 - Is the size and weight practical for my photography?
-    
 - Does the lens fit my budget?
-    
 
 Choosing a lens becomes easier when the photographer starts with the **desired result** rather than simply looking at specifications. The best lens is the one that provides the focal length, aperture, features, and compatibility needed for the type of photography being performed.
+
+### Links to sub catergories
+
+[Cameras](cameras.md)
+[Lenses](lenses.md)
+[Accessories](accessories.md)
+
+
