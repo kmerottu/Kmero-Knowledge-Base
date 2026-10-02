@@ -1,3 +1,7 @@
+---
+title: Lens Selections Guide
+---
+
 # Lens Selection Decision Guide
 
 Choosing the right lens depends on what you are photographing, how much of the scene you want to capture, and the type of result you want. Use the guide below to help select a lens based on your photography needs.
@@ -238,6 +242,7 @@ Choosing a lens becomes easier when the photographer starts with the **desired 
 
 ### Links to sub catergories
 
+[Home](index.md)
 [Cameras](cameras.md)
 [Lenses](lenses.md)
 [Accessories](accessories.md)

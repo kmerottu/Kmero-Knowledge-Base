@@ -1,3 +1,6 @@
+---
+title: Lenses
+---
 
 # Photography Lenses
 

@@ -4,3 +4,7 @@ title: Camera Settings
 ## Related Categories
 
 Camera settings are a important part of [photography-basics](photography-basics/index.md) because you must understand camera settings to achieve desired results.
+
+List of sub categories
+
+[Camera Settings(camera-settings.md)]
