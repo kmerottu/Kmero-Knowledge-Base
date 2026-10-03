@@ -1,7 +1,8 @@
 ---
-Title: Home
+title: Knowledge Base
 Date: 2026-10-02
 ---
+
 
 ## Main Categories
 [Photography Basics](photography-basics/index.md)
