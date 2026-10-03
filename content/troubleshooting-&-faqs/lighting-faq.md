@@ -173,7 +173,7 @@ When using backlighting, photographers may need to carefully adjust exposure so 
 
 ### Links to sub catergories
 [Camera FAQs](camera-faqs.md)
-[Camera Settings FAQ](canera-settings-faq.md)
+[Camera Settings FAQ](camera-settings-faq.md)
 [Lens FAQs](lens-faqs.md)
 [Lighting FAQs](lighting-faq.md)
 [Photography Learning FAQs](photography-learning-faqs.md)

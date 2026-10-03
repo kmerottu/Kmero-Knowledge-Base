@@ -2,7 +2,7 @@
 title: Troubleshooting & FAQs
 Date: 2026-10-02
 ---
-List of sub categories
+[Home](index.md)
 [Camera FAQs](camera-faqs.md)
 [Camera Settings FAQ](canera-settings-faq.md)
 [Lens FAQs](lens-faqs.md)

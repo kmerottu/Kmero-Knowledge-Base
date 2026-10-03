@@ -2,7 +2,9 @@
 title: Editing & Post Processing
 Date: 2026-10-02
 ---
-List of sub categories
+
+
+[Home](index.md)
 [Editing Workflow](editing-workflow.md)
 [Photography Editing](photography-editing.md)
 [Software](software.md)

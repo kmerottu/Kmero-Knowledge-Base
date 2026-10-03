@@ -408,8 +408,3 @@ Camera settings allow photographers to control both the technical and creative a
 
 The best camera settings depend on the desired result, lighting conditions, subject movement, and creative style. By understanding what each setting does and practicing different combinations, photographers can make more intentional decisions and create photographs that match their creative goals.
 
-### Links to sub catergories
-
-[Home](index.md)
-
-

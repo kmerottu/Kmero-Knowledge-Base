@@ -475,9 +475,8 @@ The best accessories depend on the photographer's equipment, photography style, 
 
 ### Links to sub catergories
 
-[Home](index.md)
 [Cameras](Cameras.md)
 [Lens Selection Guide](lens-selection-guide.md)
 [Lenses](Lenses.md)
-
+[Accessories](Accessories.md)
 

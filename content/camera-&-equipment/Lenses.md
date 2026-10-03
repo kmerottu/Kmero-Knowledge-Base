@@ -527,3 +527,4 @@ When choosing a lens, photographers should consider **focal length, aperture, l
 [Cameras](Cameras.md)
 [Lens Selection Guide](lens-selection-guide.md)
 [Accessories](Accessories.md)
+[Lenses](Lenses.md)
