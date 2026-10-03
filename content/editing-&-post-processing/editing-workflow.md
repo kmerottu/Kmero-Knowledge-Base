@@ -93,4 +93,4 @@ Some programs are designed primarily for organizing and developing photographs, 
 
 [Editing Workflow](editing-workflow.md)
 [Photography Editing](photography-editing.md)
-[Software](software.md)
+[Software](Software.md)

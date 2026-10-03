@@ -64,4 +64,4 @@ Reviewing your photographs and identifying what worked and what did not can also
 [Lens FAQs](lens-faqs.md)
 [Lighting FAQs](lighting-faq.md)
 [Photography Learning FAQs](photography-learning-faqs.md)
-[Troubleshooting](troubleshooting.md)
+[Troubleshooting](Troubleshooting.md)

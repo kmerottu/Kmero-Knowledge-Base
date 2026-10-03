@@ -146,4 +146,4 @@ The most important concepts to understand include **exposure, aperture, shutter
 [Lens FAQs](lens-faqs.md)
 [Lighting FAQs](lighting-faq.md)
 [Photography Learning FAQs](photography-learning-faqs.md)
-[Troubleshooting](troubleshooting.md)
+[Troubleshooting](Troubleshooting.md)

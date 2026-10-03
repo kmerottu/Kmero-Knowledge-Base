@@ -177,4 +177,4 @@ When using backlighting, photographers may need to carefully adjust exposure so 
 [Lens FAQs](lens-faqs.md)
 [Lighting FAQs](lighting-faq.md)
 [Photography Learning FAQs](photography-learning-faqs.md)
-[Troubleshooting](troubleshooting.md)
+[Troubleshooting](Troubleshooting.md)

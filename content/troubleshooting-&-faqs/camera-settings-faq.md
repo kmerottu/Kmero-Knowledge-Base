@@ -126,4 +126,4 @@ Try lowering the ISO, using a faster shutter speed, or using a narrower aperture
 [Lens FAQs](lens-faqs.md)
 [Lighting FAQs](lighting-faq.md)
 [Photography Learning FAQs](photography-learning-faqs.md)
-[Troubleshooting](troubleshooting.md)
+[Troubleshooting](Troubleshooting.md)

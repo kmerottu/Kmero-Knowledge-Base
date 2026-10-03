@@ -190,6 +190,6 @@ Lighting is an important part of photography because it affects the brightness, 
 
 ### Links to sub catergories
 
-[lighting](lighting.md)
+[lighting](Lighting.md)
 [Lighting Cheat Sheet](lighting-cheat-sheet.md)
 

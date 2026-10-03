@@ -513,5 +513,5 @@ When choosing a camera, photographers should consider **sensor size, megapixels
 ### Links to sub catergories
 
 [Lens Selection Guide](lens-selection-guide.md)
-[Lenses](lenses.md)
+[Lenses](Lenses.md)
 [Accessories](Accessories.md)

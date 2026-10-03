@@ -351,4 +351,4 @@ Understanding common problems and their solutions helps photographers work more 
 [Lens FAQs](lens-faqs.md)
 [Lighting FAQs](lighting-faq.md)
 [Photography Learning FAQs](photography-learning-faqs.md)
-[Troubleshooting](troubleshooting.md)
+[Troubleshooting](Troubleshooting.md)

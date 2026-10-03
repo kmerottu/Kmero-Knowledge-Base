@@ -175,5 +175,5 @@ A light placed behind the subject.
 
 ### Links to sub catergories
 
-[lighting](lighting.md)
+[Lighting](Lighting.md)
 [Lighting Cheat Sheet](lighting-cheat-sheet.md)

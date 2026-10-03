@@ -232,4 +232,4 @@ GIMP can be useful for photographers who want advanced editing tools without pur
 
 [Editing Workflow](editing-workflow.md)
 [Photography Editing](photography-editing.md)
-[Software](software.md)
+[Software](Software.md)

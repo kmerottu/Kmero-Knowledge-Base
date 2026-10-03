@@ -347,4 +347,4 @@ Editing and post-processing are important parts of modern photography. Photograp
 
 [Editing Workflow](editing-workflow.md)
 [Photography Editing](photography-editing.md)
-[Software](software.md)
+[Software](Software.md)
