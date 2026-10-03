@@ -244,7 +244,7 @@ Choosing a lens becomes easier when the photographer starts with the **desired 
 ### Links to sub catergories
 
 [Home](index.md)
-[Cameras](camera-&equipment/cameras.md)
+[Cameras](camera-&-equipment/cameras.md)
 [Lenses](lenses.md) 
 [Accessories](accessories.md)
 
