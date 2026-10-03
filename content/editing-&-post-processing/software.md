@@ -1,5 +1,6 @@
 ---
 title: Software
+Date: 2026-10-02
 ---
 
 # Photography Editing Software 

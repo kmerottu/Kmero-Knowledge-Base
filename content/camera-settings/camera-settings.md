@@ -1,5 +1,6 @@
 ---
 title: Camera Settings
+Date: 2026-10-02
 ---
 # Camera Settings for Desired Results
 

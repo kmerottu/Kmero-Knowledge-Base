@@ -1,5 +1,6 @@
 ---
 title: Camera Settings FAQ
+Date: 2026-10-02
 ---
 # Camera Settings FAQs
 

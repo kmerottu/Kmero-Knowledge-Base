@@ -1,5 +1,6 @@
 ---
 title: Editing Workflow
+Date: 2026-10-02
 ---
 
 ## Editing Workflow

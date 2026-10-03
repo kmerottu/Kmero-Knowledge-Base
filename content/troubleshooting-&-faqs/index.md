@@ -1,5 +1,6 @@
 ---
 title: Troubleshooting & FAQs
+Date: 2026-10-02
 ---
 List of sub categories
 [Camera FAQs](camera-faqs.md)

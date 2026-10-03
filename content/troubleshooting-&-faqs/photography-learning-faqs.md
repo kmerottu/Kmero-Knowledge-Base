@@ -1,5 +1,6 @@
 ---
 title: Learning FAQs
+Date: 2026-10-02
 ---
 
 # Photography Learning FAQs

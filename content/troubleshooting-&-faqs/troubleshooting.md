@@ -1,5 +1,6 @@
 ---
 title: Troubleshooting
+Date: 2026-10-02
 ---
 
 # Photography Troubleshooting

@@ -1,5 +1,6 @@
 ---
 title: Lens FAQs
+Date: 2026-10-02
 ---
 
 # Lens FAQs

@@ -1,6 +1,8 @@
 ---
-title: KmeroTTU Knowledge Base
+Home: 10-02-2026
+Date: 2026-10-02
 ---
+
 ## Main Categories
 [Photography Basics](photography-basics/index.md)
 [Camera & Equipment](camera-&-equipment/index.md)

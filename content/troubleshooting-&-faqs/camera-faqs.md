@@ -1,5 +1,6 @@
 ---
 title: Camera FAQs
+Date: 2026-10-02
 ---
 
 # Camera FAQs

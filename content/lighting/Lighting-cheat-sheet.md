@@ -1,5 +1,6 @@
 ---
 title: Lighting Cheat Sheet
+Date: 2026-10-02
 ---
 
 # Photography Lighting Cheat Sheet

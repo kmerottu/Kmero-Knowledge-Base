@@ -1,5 +1,6 @@
 ---
-title: Accessories
+Title: Accessories
+Date: 2026-10-02
 ---
 
 # Photography Accessories

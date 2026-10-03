@@ -1,5 +1,6 @@
 ---
 title: Photography Basics
+Date: 2026-10-02
 ---
 ## Related Categories
 Photography Basics relates to [camera-settings](camera-settings/index.md) because it is the first thing you must understand to achieve the desired results. 

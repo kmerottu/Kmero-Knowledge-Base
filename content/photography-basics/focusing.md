@@ -1,5 +1,6 @@
 ---
 title: Focusing
+Date: 2026-10-02
 ---
 # Focusing
 ## What is **focusing?**

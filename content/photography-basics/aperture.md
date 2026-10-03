@@ -1,5 +1,6 @@
 ---
 title: Aperture
+Date: 2026-10-02
 ---
  Aperture
 

@@ -1,5 +1,6 @@
 ---
 title: Lighting FAQs
+Date: 2026-10-02
 ---
 
 ## What is lighting in photography?

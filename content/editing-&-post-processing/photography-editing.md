@@ -1,5 +1,6 @@
 ---
 title: Photography Editing/Post Processing
+Date: 2026-10-02
 ---
 
 # Photography Editing/Post-Processing

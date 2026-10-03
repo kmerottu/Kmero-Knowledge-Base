@@ -1,5 +1,6 @@
 ---
 title: The Exposure Triangle
+Date: 2026-10-02
 ---
 
 ## What is **The Exposure Triangle?**

@@ -1,5 +1,6 @@
 ---
 title: Lens Selections Guide
+Date: 2026-10-02
 ---
 
 # Lens Selection Decision Guide
