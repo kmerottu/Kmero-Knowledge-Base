@@ -9,41 +9,52 @@ title: KmeroTTU Knowledge Base
 [Troubleshooting & FAQs](troubleshooting-&-faqs/index.md)
 
 
-## The index page
+# Photography Knowledge Base
 
-This is my first experience using Obsidian to edit markdown files. This interface is a lot easier to use than previous markdown editors I have used in the past. 
-## Editing pages
+## About This Knowledge Base
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+The **Photography Knowledge Base** is a collection of information designed to help people learn about photography, cameras, lenses, lighting, editing, and photography equipment.
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+The knowledge base brings important photography information together in one place so users can easily find answers, learn new concepts, and better understand how photography equipment and techniques work.
 
-### Obsidian (free)
+## What You Can Find
 
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
+### 📷 Cameras
 
-Link: [https://obsidian.md/](https://obsidian.md/)
+Learn about different types of cameras, camera features, settings, and how cameras work.
 
-### Visual Studio Code (free)
+### 🔭 Lenses
 
-Visual Studio Code (vscode) is a popular free and open source code editor.
+Learn about focal lengths, prime and zoom lenses, lens types, compatibility, and how to choose a lens for different types of photography.
 
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
+### 💡 Lighting
 
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+Learn about natural and artificial lighting, hard and soft light, lighting equipment, and different lighting techniques.
 
-### iA Writer (paid)
+### ⚙️ Camera Settings
 
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
+Learn about aperture, shutter speed, ISO, autofocus, white balance, and other camera settings.
 
-Link: [https://ia.net/writer](https://ia.net/writer)
+### 🖥️ Editing Software
 
-### Text editors (free or paid)
+Learn about photo editing, RAW and JPEG files, editing tools, post-processing, and popular editing software.
 
-You can use any text editor capable of opening and editing Markdown files. 
+### 🎒 Accessories
 
----
-## Adding new pages
+Learn about tripods, memory cards, batteries, camera bags, filters, reflectors, and other photography equipment.
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [example doc 01](example%20doc%2001.md) to learn more.
+### ❓ FAQs and Troubleshooting
 
+Find answers to common photography questions and solutions to common camera, lens, lighting, and editing problems.
+
+## Purpose
+
+The purpose of this knowledge base is to make photography information **organized, easy to understand, and easy to find**. It is designed for beginners and anyone who wants to improve their understanding of photography.
+
+Users can explore the different topics to learn about photography equipment, techniques, and basic concepts all in one place.
+
+## Getting Started
+
+If you are new to photography, start with **Cameras**, **Camera Settings**, and **Lighting**. From there, explore **Lenses**, **Editing Software**, and **Accessories** to learn more about the photography process.
+
+**Explore the topics, learn the basics, and build your photography knowledge.**
