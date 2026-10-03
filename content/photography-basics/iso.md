@@ -1,6 +1,6 @@
 ---
 title: ISO
-Date: 2026-10-02
+Date: 2026-09-02
 ---
  
 # What is **ISO?**
